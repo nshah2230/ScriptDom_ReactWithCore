@@ -1,0 +1,6 @@
+@ScriptDom.Server_HostAddress = http://localhost:5199
+
+GET {{ScriptDom.Server_HostAddress}}/dataextract/
+Accept: application/json
+
+###

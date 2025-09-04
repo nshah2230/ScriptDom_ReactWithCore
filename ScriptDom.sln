@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "scriptdom.client", "scriptdom.client\scriptdom.client.esproj", "{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptDom.Server", "ScriptDom.Server\ScriptDom.Server.csproj", "{EFB8AF8A-B588-4E72-BCF8-B07157F343DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EBFBB0-B606-4BF3-6B9E-45D4F1073BD2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EFB8AF8A-B588-4E72-BCF8-B07157F343DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB8AF8A-B588-4E72-BCF8-B07157F343DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB8AF8A-B588-4E72-BCF8-B07157F343DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB8AF8A-B588-4E72-BCF8-B07157F343DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F957919-C324-487D-864D-19BB4BA4CC69}
+	EndGlobalSection
+EndGlobal
